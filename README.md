@@ -9,7 +9,6 @@ const MyForm = () => {
   const [errors, setErrors] = useState({
     name: 'You cannot be named John Doe'
   });
-  const [values, setValues] = useState({});
 
   const onSubmit = (values) => {
     console.log(values);
