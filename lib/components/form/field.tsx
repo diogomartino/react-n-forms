@@ -97,7 +97,7 @@ const Field = <T extends THandlerType = 'native'>({
   }, [validate, name, setValidators]);
 
   return children?.({
-    value: currentValue,
+    value: currentValue ?? '',
     values,
     name,
     onChange: onChangeHandler as OnChangeType<T>,

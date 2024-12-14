@@ -4,7 +4,7 @@
   "author": "Diogo Martino",
   "license": "Apache-2.0",
   "private": false,
-  "version": "0.0.0-alpha.0",
+  "version": "0.0.0-alpha.1",
   "homepage": "https://github.com/diogomartino/react-n-forms",
   "repository": "https://github.com/diogomartino/react-n-forms",
   "type": "module",
